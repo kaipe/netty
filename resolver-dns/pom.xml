@@ -69,6 +69,12 @@
       <version>${project.version}</version>
     </dependency>
     <dependency>
+      <groupId>org.lazyparams</groupId>
+      <artifactId>lazyparams</artifactId>
+      <scope>test</scope>
+      <version>1.0.0</version>
+    </dependency>
+    <dependency>
       <groupId>org.apache.directory.server</groupId>
       <artifactId>apacheds-protocol-dns</artifactId>
       <scope>test</scope>
